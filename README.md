@@ -1,4 +1,4 @@
-Hello World! My name is **Michael Sirait**!
+# Hello World! My name is **Michael**!
 
 - 👀 I’m interested in data science, music, and anime!
 - 🌱 I’m currently learning data science and machine learning using Python and R.
