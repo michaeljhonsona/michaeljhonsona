@@ -1,6 +1,6 @@
 # Hello World! My name is **Michael Sirait**!
 
-## I'm a mining engineer graduate and aspired to be a Data Scientist!
+### I'm a mining engineer graduate and aspired to be a Data Scientist!
 - 👀 I’m interested in data science, music, and anime~
 - 🌱 I’m currently learning Japanese and all things about Data Science and Machine Learning using Python and R :D
 - 💞️ I’m looking to collaborate on personal projects so we can learn data science and machine learning together!!
